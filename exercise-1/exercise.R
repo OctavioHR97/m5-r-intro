@@ -10,10 +10,10 @@ my.name <- "Octavio Hermida"
 my.height <- "1.73 m"
 
 # Create a variable `puppies` equal to the number of puppies you'd like to have
-puppies <- 2
+puppies <- 7
 
 # Create a variable `puppy.price`, which is how expensive you think a puppy is
-puppy.price <- 100
+puppy.price <- 150
 
 # Create a variable `total.cost` that has the total cost of all of your puppies
 total.cost <- puppies * puppy.price
